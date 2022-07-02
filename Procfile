@@ -1,0 +1,1 @@
+web: gunicorn Projeto_Integrador_2.wsgi
